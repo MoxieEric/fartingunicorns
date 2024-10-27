@@ -1,4 +1,4 @@
-import type { MetaFunction } from '@remix-run/node'
+import type { MetaFunction } from '@netlify/remix-runtime'
 import Unicorn from 'src/components/icons/Unicorn'
 
 export const meta: MetaFunction = () => {
