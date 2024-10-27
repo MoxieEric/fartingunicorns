@@ -10,7 +10,7 @@ export default {
 					100: '#f17cab', // pink / hair
 					200: '#6ccad9', // cyan / hair
 					300: '#f9d400', // yellow / horn
-					400: '#2c4362', // dark / outline
+					400: '#2b4161', // dark blue / outline
 					500: '#2b4161', // dark blue / outline
 					800: '#2b4161',
 					950: '#2b4161',
