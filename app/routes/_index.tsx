@@ -7,6 +7,27 @@ export const meta: MetaFunction = () => {
 	return [
 		{ title: 'Farting Unicorns' },
 		{ name: 'description', content: 'Just because.' },
+		{
+			name: 'og:title',
+			content: 'Farting Unicorns',
+		},
+		{
+			name: 'og:description',
+			content: 'Even magical creatures pass gas.',
+		},
+		{
+			name: 'og:type',
+			content: 'website',
+		},
+		{
+			name: 'og:url',
+			content: 'https://fartingunicorns.com',
+		},
+		{
+			name: 'og:image',
+			content:
+				'https://fartingunicorns.com/farting-unicorns-preview-01.jpg',
+		},
 	]
 }
 
